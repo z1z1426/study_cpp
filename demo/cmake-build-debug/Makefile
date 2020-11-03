@@ -48,10 +48,10 @@ RM = /snap/clion/121/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ge/CLionProjects/demo
+CMAKE_SOURCE_DIR = /home/ge/CLionProjects/study_cpp/demo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ge/CLionProjects/demo/cmake-build-debug
+CMAKE_BINARY_DIR = /home/ge/CLionProjects/study_cpp/demo/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles /home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles /home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,19 +111,6 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named demo1
-
-# Build rule for target.
-demo1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 demo1
-.PHONY : demo1
-
-# fast build rule for target.
-demo1/fast:
-	$(MAKE) -f CMakeFiles/demo1.dir/build.make CMakeFiles/demo1.dir/build
-.PHONY : demo1/fast
-
-#=============================================================================
 # Target rules for targets named demo
 
 # Build rule for target.
@@ -136,59 +123,32 @@ demo/fast:
 	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/build
 .PHONY : demo/fast
 
-addressBook.o: addressBook.cpp.o
+Worker_System/职工管理系统.o: Worker_System/职工管理系统.cpp.o
 
-.PHONY : addressBook.o
-
-# target to build an object file
-addressBook.cpp.o:
-	$(MAKE) -f CMakeFiles/demo1.dir/build.make CMakeFiles/demo1.dir/addressBook.cpp.o
-.PHONY : addressBook.cpp.o
-
-addressBook.i: addressBook.cpp.i
-
-.PHONY : addressBook.i
-
-# target to preprocess a source file
-addressBook.cpp.i:
-	$(MAKE) -f CMakeFiles/demo1.dir/build.make CMakeFiles/demo1.dir/addressBook.cpp.i
-.PHONY : addressBook.cpp.i
-
-addressBook.s: addressBook.cpp.s
-
-.PHONY : addressBook.s
-
-# target to generate assembly for a file
-addressBook.cpp.s:
-	$(MAKE) -f CMakeFiles/demo1.dir/build.make CMakeFiles/demo1.dir/addressBook.cpp.s
-.PHONY : addressBook.cpp.s
-
-继承同名成员处理方式.o: 继承同名成员处理方式.cpp.o
-
-.PHONY : 继承同名成员处理方式.o
+.PHONY : Worker_System/职工管理系统.o
 
 # target to build an object file
-继承同名成员处理方式.cpp.o:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/继承同名成员处理方式.cpp.o
-.PHONY : 继承同名成员处理方式.cpp.o
+Worker_System/职工管理系统.cpp.o:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.o
+.PHONY : Worker_System/职工管理系统.cpp.o
 
-继承同名成员处理方式.i: 继承同名成员处理方式.cpp.i
+Worker_System/职工管理系统.i: Worker_System/职工管理系统.cpp.i
 
-.PHONY : 继承同名成员处理方式.i
+.PHONY : Worker_System/职工管理系统.i
 
 # target to preprocess a source file
-继承同名成员处理方式.cpp.i:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/继承同名成员处理方式.cpp.i
-.PHONY : 继承同名成员处理方式.cpp.i
+Worker_System/职工管理系统.cpp.i:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.i
+.PHONY : Worker_System/职工管理系统.cpp.i
 
-继承同名成员处理方式.s: 继承同名成员处理方式.cpp.s
+Worker_System/职工管理系统.s: Worker_System/职工管理系统.cpp.s
 
-.PHONY : 继承同名成员处理方式.s
+.PHONY : Worker_System/职工管理系统.s
 
 # target to generate assembly for a file
-继承同名成员处理方式.cpp.s:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/继承同名成员处理方式.cpp.s
-.PHONY : 继承同名成员处理方式.cpp.s
+Worker_System/职工管理系统.cpp.s:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.s
+.PHONY : Worker_System/职工管理系统.cpp.s
 
 # Help Target
 help:
@@ -198,14 +158,10 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... demo1"
 	@echo "... demo"
-	@echo "... addressBook.o"
-	@echo "... addressBook.i"
-	@echo "... addressBook.s"
-	@echo "... 继承同名成员处理方式.o"
-	@echo "... 继承同名成员处理方式.i"
-	@echo "... 继承同名成员处理方式.s"
+	@echo "... Worker_System/职工管理系统.o"
+	@echo "... Worker_System/职工管理系统.i"
+	@echo "... Worker_System/职工管理系统.s"
 .PHONY : help
 
 

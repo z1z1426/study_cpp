@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/demo.dir/继承同名成员处理方式.cpp.o"
+  "CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.o"
   "demo"
   "demo.pdb"
 )

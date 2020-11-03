@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ge/CLionProjects/demo/继承同名成员处理方式.cpp" "/home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles/demo.dir/继承同名成员处理方式.cpp.o"
+  "/home/ge/CLionProjects/study_cpp/demo/Worker_System/职工管理系统.cpp" "/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
