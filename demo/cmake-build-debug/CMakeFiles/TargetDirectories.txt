@@ -1,0 +1,4 @@
+/home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles/demo1.dir
+/home/ge/CLionProjects/demo/cmake-build-debug/CMakeFiles/demo.dir

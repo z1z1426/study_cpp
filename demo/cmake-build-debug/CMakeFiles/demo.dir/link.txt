@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/demo.dir/继承同名成员处理方式.cpp.o  -o demo 
