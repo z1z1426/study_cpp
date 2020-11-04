@@ -123,32 +123,32 @@ demo/fast:
 	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/build
 .PHONY : demo/fast
 
-Worker_System/职工管理系统.o: Worker_System/职工管理系统.cpp.o
+template/类模板.o: template/类模板.cpp.o
 
-.PHONY : Worker_System/职工管理系统.o
+.PHONY : template/类模板.o
 
 # target to build an object file
-Worker_System/职工管理系统.cpp.o:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.o
-.PHONY : Worker_System/职工管理系统.cpp.o
+template/类模板.cpp.o:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/template/类模板.cpp.o
+.PHONY : template/类模板.cpp.o
 
-Worker_System/职工管理系统.i: Worker_System/职工管理系统.cpp.i
+template/类模板.i: template/类模板.cpp.i
 
-.PHONY : Worker_System/职工管理系统.i
+.PHONY : template/类模板.i
 
 # target to preprocess a source file
-Worker_System/职工管理系统.cpp.i:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.i
-.PHONY : Worker_System/职工管理系统.cpp.i
+template/类模板.cpp.i:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/template/类模板.cpp.i
+.PHONY : template/类模板.cpp.i
 
-Worker_System/职工管理系统.s: Worker_System/职工管理系统.cpp.s
+template/类模板.s: template/类模板.cpp.s
 
-.PHONY : Worker_System/职工管理系统.s
+.PHONY : template/类模板.s
 
 # target to generate assembly for a file
-Worker_System/职工管理系统.cpp.s:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.s
-.PHONY : Worker_System/职工管理系统.cpp.s
+template/类模板.cpp.s:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/template/类模板.cpp.s
+.PHONY : template/类模板.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... demo"
-	@echo "... Worker_System/职工管理系统.o"
-	@echo "... Worker_System/职工管理系统.i"
-	@echo "... Worker_System/职工管理系统.s"
+	@echo "... template/类模板.o"
+	@echo "... template/类模板.i"
+	@echo "... template/类模板.s"
 .PHONY : help
 
 
