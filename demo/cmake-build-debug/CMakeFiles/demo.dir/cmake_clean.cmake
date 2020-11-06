@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/demo.dir/template/类模板.cpp.o"
+  "CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o"
   "demo"
   "demo.pdb"
 )

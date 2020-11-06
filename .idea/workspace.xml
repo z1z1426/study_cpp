@@ -16,7 +16,14 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
@@ -30,22 +37,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c6662a-d679-48ef-8749-47690ef2e928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/template/函数模板案例.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/template/函数模板注意事项.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/template/函数模板语法.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/template/普通函数与函数模板的区别.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/template/普通函数与函数模板的调用规则.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/template/模板的局限性.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/template/类模板.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/deque容器/deque大小操作.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/deque容器/deque排序.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/deque容器/deque插入和删除.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/deque容器/deque数据存取.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/deque容器/deque构造函数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/deque容器/deque赋值操作.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/stack容器/stack常用接口.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string子串.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string字符串拼接.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string字符串比较.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string字符获取.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string插入和删除.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string构造函数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string查找和替换.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/string容器/string赋值操作.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector存放自定义数据类型.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器/vector互换容器.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器/vector容量和大小.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器/vector插入和删除.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器/vector数据存取.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器/vector构造函数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器/vector赋值操作.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器/vector预留空间.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器存放内置数据类型.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/vector容器嵌套容器.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/STL/案例：评委打分.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/MyArray.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/person.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/person.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/person.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板与函数模板的区别.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板与友元.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板与继承.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板中成员函数创建时机.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板分文件编写.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板对象做函数参数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板成员函数类外实现.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/template/类模板案例.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demo/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/Worker_System/workerManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/demo/Worker_System/workerManager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/Worker_System/workerManager.h" beforeDir="false" afterPath="$PROJECT_DIR$/demo/Worker_System/workerManager.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/Worker_System/职工管理系统.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/demo/Worker_System/职工管理系统.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/Worker_System/职工管理系统.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.internal" afterDir="false" />
@@ -81,6 +114,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/Worker_System" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -111,6 +145,8 @@
       <updated>1604366123730</updated>
       <workItem from="1604366125031" duration="24952000" />
       <workItem from="1604452128386" duration="25888000" />
+      <workItem from="1604538879771" duration="21389000" />
+      <workItem from="1604626287626" duration="23668000" />
     </task>
     <servers />
   </component>
@@ -122,7 +158,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -138,42 +186,50 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="703" y="341" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604387166140" />
-    <state width="1809" height="296" key="GridCell.Tab.0.bottom" timestamp="1604483492984">
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom" timestamp="1604656629350">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="296" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604483492984" />
-    <state width="1809" height="296" key="GridCell.Tab.0.center" timestamp="1604483492984">
+    <state width="1809" height="296" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604656629350" />
+    <state width="1809" height="296" key="GridCell.Tab.0.center" timestamp="1604656629350">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="296" key="GridCell.Tab.0.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604483492984" />
-    <state width="1809" height="296" key="GridCell.Tab.0.left" timestamp="1604483492984">
+    <state width="1809" height="296" key="GridCell.Tab.0.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604656629350" />
+    <state width="1809" height="296" key="GridCell.Tab.0.left" timestamp="1604656629350">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="296" key="GridCell.Tab.0.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604483492984" />
-    <state width="1809" height="296" key="GridCell.Tab.0.right" timestamp="1604483492984">
+    <state width="1809" height="296" key="GridCell.Tab.0.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604656629350" />
+    <state width="1809" height="296" key="GridCell.Tab.0.right" timestamp="1604656629350">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="296" key="GridCell.Tab.0.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604483492984" />
-    <state width="1809" height="365" key="GridCell.Tab.1.bottom" timestamp="1604472828326">
+    <state width="1809" height="296" key="GridCell.Tab.0.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604656629350" />
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom" timestamp="1604647097883">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604472828326" />
-    <state width="1809" height="365" key="GridCell.Tab.1.center" timestamp="1604472828326">
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604647097883" />
+    <state width="1809" height="365" key="GridCell.Tab.1.center" timestamp="1604647097883">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604472828326" />
-    <state width="1809" height="365" key="GridCell.Tab.1.left" timestamp="1604472828326">
+    <state width="1809" height="365" key="GridCell.Tab.1.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604647097883" />
+    <state width="1809" height="365" key="GridCell.Tab.1.left" timestamp="1604647097883">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604472828326" />
-    <state width="1809" height="365" key="GridCell.Tab.1.right" timestamp="1604472828326">
+    <state width="1809" height="365" key="GridCell.Tab.1.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604647097883" />
+    <state width="1809" height="365" key="GridCell.Tab.1.right" timestamp="1604647097883">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604472828326" />
-    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1604481089120">
+    <state width="1809" height="365" key="GridCell.Tab.1.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604647097883" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1604652686702">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604481089120" />
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604652686702" />
+    <state x="711" y="325" key="refactoring.ChangeSignatureDialog" timestamp="1604654637308">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="711" y="325" key="refactoring.ChangeSignatureDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604654637308" />
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1604654273795">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604654273795" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

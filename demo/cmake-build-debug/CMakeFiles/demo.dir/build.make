@@ -57,27 +57,27 @@ include CMakeFiles/demo.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/demo.dir/flags.make
 
-CMakeFiles/demo.dir/template/类模板.cpp.o: CMakeFiles/demo.dir/flags.make
-CMakeFiles/demo.dir/template/类模板.cpp.o: ../template/类模板.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/demo.dir/template/类模板.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/demo.dir/template/类模板.cpp.o -c /home/ge/CLionProjects/study_cpp/demo/template/类模板.cpp
+CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o: CMakeFiles/demo.dir/flags.make
+CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o: ../STL/stack容器/stack常用接口.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o -c /home/ge/CLionProjects/study_cpp/demo/STL/stack容器/stack常用接口.cpp
 
-CMakeFiles/demo.dir/template/类模板.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/demo.dir/template/类模板.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ge/CLionProjects/study_cpp/demo/template/类模板.cpp > CMakeFiles/demo.dir/template/类模板.cpp.i
+CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ge/CLionProjects/study_cpp/demo/STL/stack容器/stack常用接口.cpp > CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.i
 
-CMakeFiles/demo.dir/template/类模板.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/demo.dir/template/类模板.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ge/CLionProjects/study_cpp/demo/template/类模板.cpp -o CMakeFiles/demo.dir/template/类模板.cpp.s
+CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ge/CLionProjects/study_cpp/demo/STL/stack容器/stack常用接口.cpp -o CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.s
 
 # Object files for target demo
 demo_OBJECTS = \
-"CMakeFiles/demo.dir/template/类模板.cpp.o"
+"CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o"
 
 # External object files for target demo
 demo_EXTERNAL_OBJECTS =
 
-demo: CMakeFiles/demo.dir/template/类模板.cpp.o
+demo: CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o
 demo: CMakeFiles/demo.dir/build.make
 demo: CMakeFiles/demo.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable demo"

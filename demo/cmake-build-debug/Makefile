@@ -123,32 +123,32 @@ demo/fast:
 	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/build
 .PHONY : demo/fast
 
-template/类模板.o: template/类模板.cpp.o
+STL/stack容器/stack常用接口.o: STL/stack容器/stack常用接口.cpp.o
 
-.PHONY : template/类模板.o
+.PHONY : STL/stack容器/stack常用接口.o
 
 # target to build an object file
-template/类模板.cpp.o:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/template/类模板.cpp.o
-.PHONY : template/类模板.cpp.o
+STL/stack容器/stack常用接口.cpp.o:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o
+.PHONY : STL/stack容器/stack常用接口.cpp.o
 
-template/类模板.i: template/类模板.cpp.i
+STL/stack容器/stack常用接口.i: STL/stack容器/stack常用接口.cpp.i
 
-.PHONY : template/类模板.i
+.PHONY : STL/stack容器/stack常用接口.i
 
 # target to preprocess a source file
-template/类模板.cpp.i:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/template/类模板.cpp.i
-.PHONY : template/类模板.cpp.i
+STL/stack容器/stack常用接口.cpp.i:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.i
+.PHONY : STL/stack容器/stack常用接口.cpp.i
 
-template/类模板.s: template/类模板.cpp.s
+STL/stack容器/stack常用接口.s: STL/stack容器/stack常用接口.cpp.s
 
-.PHONY : template/类模板.s
+.PHONY : STL/stack容器/stack常用接口.s
 
 # target to generate assembly for a file
-template/类模板.cpp.s:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/template/类模板.cpp.s
-.PHONY : template/类模板.cpp.s
+STL/stack容器/stack常用接口.cpp.s:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.s
+.PHONY : STL/stack容器/stack常用接口.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... demo"
-	@echo "... template/类模板.o"
-	@echo "... template/类模板.i"
-	@echo "... template/类模板.s"
+	@echo "... STL/stack容器/stack常用接口.o"
+	@echo "... STL/stack容器/stack常用接口.i"
+	@echo "... STL/stack容器/stack常用接口.s"
 .PHONY : help
 
 

@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/ge/CLionProjects/study_cpp/demo/template/类模板.cpp
+/home/ge/CLionProjects/study_cpp/demo/STL/案例：评委打分.cpp
 iostream
+-
+vector
+-
+deque
+-
+algorithm
 -
 

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/demo.dir/template/类模板.cpp.o  -o demo 
+/usr/bin/c++  -g   CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o  -o demo 
