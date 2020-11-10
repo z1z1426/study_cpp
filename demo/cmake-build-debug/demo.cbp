@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/ge/CLionProjects/study_cpp/demo/STL/stack容器/stack常用接口.cpp">
+		<Unit filename="/home/ge/CLionProjects/study_cpp/demo/STL/常用算法/常用查找算法find_if.cpp">
 			<Option target="demo"/>
 		</Unit>
 		<Unit filename="/home/ge/CLionProjects/study_cpp/demo/CMakeLists.txt">

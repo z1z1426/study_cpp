@@ -10,6 +10,7 @@ void test01() {
     s.push(20);
     s.push(30);
     s.push(40);
+    cout << "栈的大小： " << s.size() << endl;
     //只要栈不为空，查看栈顶并且执行出栈操作
     while(!s.empty()){
         //查看栈顶元素
@@ -17,6 +18,7 @@ void test01() {
         //出栈
         s.pop();
     }
+    cout << "栈的大小： " << s.size() << endl;
 }
 
 int main() {

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ge/CLionProjects/study_cpp/demo/STL/stack容器/stack常用接口.cpp" "/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o"
+  "/home/ge/CLionProjects/study_cpp/demo/STL/常用算法/常用查找算法find_if.cpp" "/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles/demo.dir/STL/常用算法/常用查找算法find_if.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

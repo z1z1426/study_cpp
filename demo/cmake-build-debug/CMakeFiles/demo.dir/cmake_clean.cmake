@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o"
+  "CMakeFiles/demo.dir/STL/常用算法/常用查找算法find_if.cpp.o"
   "demo"
   "demo.pdb"
 )

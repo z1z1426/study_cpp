@@ -123,32 +123,32 @@ demo/fast:
 	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/build
 .PHONY : demo/fast
 
-STL/stack容器/stack常用接口.o: STL/stack容器/stack常用接口.cpp.o
+STL/常用算法/常用查找算法find_if.o: STL/常用算法/常用查找算法find_if.cpp.o
 
-.PHONY : STL/stack容器/stack常用接口.o
+.PHONY : STL/常用算法/常用查找算法find_if.o
 
 # target to build an object file
-STL/stack容器/stack常用接口.cpp.o:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.o
-.PHONY : STL/stack容器/stack常用接口.cpp.o
+STL/常用算法/常用查找算法find_if.cpp.o:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/常用算法/常用查找算法find_if.cpp.o
+.PHONY : STL/常用算法/常用查找算法find_if.cpp.o
 
-STL/stack容器/stack常用接口.i: STL/stack容器/stack常用接口.cpp.i
+STL/常用算法/常用查找算法find_if.i: STL/常用算法/常用查找算法find_if.cpp.i
 
-.PHONY : STL/stack容器/stack常用接口.i
+.PHONY : STL/常用算法/常用查找算法find_if.i
 
 # target to preprocess a source file
-STL/stack容器/stack常用接口.cpp.i:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.i
-.PHONY : STL/stack容器/stack常用接口.cpp.i
+STL/常用算法/常用查找算法find_if.cpp.i:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/常用算法/常用查找算法find_if.cpp.i
+.PHONY : STL/常用算法/常用查找算法find_if.cpp.i
 
-STL/stack容器/stack常用接口.s: STL/stack容器/stack常用接口.cpp.s
+STL/常用算法/常用查找算法find_if.s: STL/常用算法/常用查找算法find_if.cpp.s
 
-.PHONY : STL/stack容器/stack常用接口.s
+.PHONY : STL/常用算法/常用查找算法find_if.s
 
 # target to generate assembly for a file
-STL/stack容器/stack常用接口.cpp.s:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/stack容器/stack常用接口.cpp.s
-.PHONY : STL/stack容器/stack常用接口.cpp.s
+STL/常用算法/常用查找算法find_if.cpp.s:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/STL/常用算法/常用查找算法find_if.cpp.s
+.PHONY : STL/常用算法/常用查找算法find_if.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... demo"
-	@echo "... STL/stack容器/stack常用接口.o"
-	@echo "... STL/stack容器/stack常用接口.i"
-	@echo "... STL/stack容器/stack常用接口.s"
+	@echo "... STL/常用算法/常用查找算法find_if.o"
+	@echo "... STL/常用算法/常用查找算法find_if.i"
+	@echo "... STL/常用算法/常用查找算法find_if.s"
 .PHONY : help
 
 
