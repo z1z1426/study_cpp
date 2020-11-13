@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/demo.dir/STL/常用算法/常用查找算法find_if.cpp.o  -o demo 
+/usr/bin/c++  -g   CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o  -o demo 

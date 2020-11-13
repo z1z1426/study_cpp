@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/demo.dir/STL/常用算法/常用查找算法find_if.cpp.o"
+  "CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o"
   "demo"
   "demo.pdb"
 )
