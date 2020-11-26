@@ -6,23 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/ge/CLionProjects/study_cpp/demo/socket_demo/server.cpp
-iostream
--
+/home/ge/CLionProjects/study_cpp/demo/csapp/第二章/2.71.c
 stdio.h
 -
 string.h
 -
-unistd.h
--
 stdlib.h
 -
-netdb.h
--
-sys/types.h
--
-sys/socket.h
--
-arpa/inet.h
+assert.h
 -
 

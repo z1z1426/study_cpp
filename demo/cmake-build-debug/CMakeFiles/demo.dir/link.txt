@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o  -o demo 
+/usr/bin/cc -g   CMakeFiles/demo.dir/csapp/第二章/2.71.c.o  -o demo 

@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/ge/CLionProjects/study_cpp/demo/机房预约系统/机房预约系统.cpp">
+		<Unit filename="/home/ge/CLionProjects/study_cpp/demo/csapp/第二章/2.71.c">
 			<Option target="demo"/>
 		</Unit>
 		<Unit filename="/home/ge/CLionProjects/study_cpp/demo/CMakeLists.txt">

@@ -37,49 +37,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c6662a-d679-48ef-8749-47690ef2e928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用拷贝和替换算法/copy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用拷贝和替换算法/replace.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用拷贝和替换算法/replace_if.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用拷贝和替换算法/swap.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用排序算法/merge.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用排序算法/random_shuffle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用排序算法/reverse.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用排序算法/sort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法/count.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法/count_if.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法/常用查找算法adjacent_find.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法/常用查找算法binary_search.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法/常用查找算法find_if.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用算术生成算法.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用集合算法.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/computerRoom.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/globalFile.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/identity.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/manager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/manager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/orderFile.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/orderFile.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/student.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/student.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/teacher.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/teacher.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/机房预约系统/机房预约系统.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/演讲比赛流程管理系统/player.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/演讲比赛流程管理系统/speechManager.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/演讲比赛流程管理系统/speechManager.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/演讲比赛流程管理系统/演讲比赛流程管理系统.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.10-11.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.12.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.23.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.54.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.61.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.71.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/datastructure/DynamicArray.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/datastructure/DynamicArray.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/datastructure/动态数组.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demo/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法find.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法/常用查找算法find.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法find_if.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/STL/常用算法/常用查找算法.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.internal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/demo.cbp" afterDir="false" />
@@ -93,6 +71,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="C Source" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -108,24 +93,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/Worker_System" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/demo/Worker_System" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo/csapp/第二章" />
       <recent name="$PROJECT_DIR$/demo/STL/常用算法/常用查找算法" />
       <recent name="$PROJECT_DIR$/demo/STL/vector容器" />
       <recent name="$PROJECT_DIR$/demo/STL" />
       <recent name="$PROJECT_DIR$/demo/Worker_System" />
-      <recent name="$PROJECT_DIR$/demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo/Worker_System" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="demo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="demo">
+    <configuration name="demo" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./server.cpp 2 5005" REDIRECT_INPUT="false" WORKING_DIR="file://$PROJECT_DIR$/demo/socket_demo" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="demo">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -149,7 +134,11 @@
       <workItem from="1605057272119" duration="16420000" />
       <workItem from="1605079429536" duration="9444000" />
       <workItem from="1605143881219" duration="25637000" />
-      <workItem from="1605230299961" duration="7466000" />
+      <workItem from="1605230299961" duration="11529000" />
+      <workItem from="1606095891243" duration="5677000" />
+      <workItem from="1606181081396" duration="15886000" />
+      <workItem from="1606267702074" duration="8766000" />
+      <workItem from="1606354022191" duration="1807000" />
     </task>
     <servers />
   </component>
@@ -181,46 +170,58 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604389008944">
+    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606097756107">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604389008944" />
-    <state x="703" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604387166140">
+    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606097756107" />
+    <state x="703" y="341" width="568" height="394" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606181090261">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="703" y="341" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604387166140" />
-    <state width="1809" height="384" key="GridCell.Tab.0.bottom" timestamp="1605236409577">
+    <state x="703" y="341" width="568" height="394" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606181090261" />
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606098447771">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="384" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605236409577" />
-    <state width="1809" height="384" key="GridCell.Tab.0.center" timestamp="1605236409577">
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606098447771" />
+    <state x="780" y="297" key="FileChooserDialogImpl" timestamp="1606097343580">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="384" key="GridCell.Tab.0.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605236409577" />
-    <state width="1809" height="384" key="GridCell.Tab.0.left" timestamp="1605236409577">
+    <state x="780" y="297" key="FileChooserDialogImpl/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606097343580" />
+    <state width="1809" height="384" key="GridCell.Tab.0.bottom" timestamp="1606288947951">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="384" key="GridCell.Tab.0.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605236409577" />
-    <state width="1809" height="384" key="GridCell.Tab.0.right" timestamp="1605236409577">
+    <state width="1809" height="384" key="GridCell.Tab.0.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606288947951" />
+    <state width="1809" height="384" key="GridCell.Tab.0.center" timestamp="1606288947951">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="384" key="GridCell.Tab.0.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605236409577" />
-    <state width="1809" height="365" key="GridCell.Tab.1.bottom" timestamp="1605164390408">
+    <state width="1809" height="384" key="GridCell.Tab.0.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606288947951" />
+    <state width="1809" height="384" key="GridCell.Tab.0.left" timestamp="1606288947951">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605164390408" />
-    <state width="1809" height="365" key="GridCell.Tab.1.center" timestamp="1605164390408">
+    <state width="1809" height="384" key="GridCell.Tab.0.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606288947951" />
+    <state width="1809" height="384" key="GridCell.Tab.0.right" timestamp="1606288947951">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605164390408" />
-    <state width="1809" height="365" key="GridCell.Tab.1.left" timestamp="1605164390408">
+    <state width="1809" height="384" key="GridCell.Tab.0.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606288947951" />
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom" timestamp="1606197512075">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605164390408" />
-    <state width="1809" height="365" key="GridCell.Tab.1.right" timestamp="1605164390408">
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606197512075" />
+    <state width="1809" height="365" key="GridCell.Tab.1.center" timestamp="1606197512075">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state width="1809" height="365" key="GridCell.Tab.1.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605164390408" />
+    <state width="1809" height="365" key="GridCell.Tab.1.center/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606197512075" />
+    <state width="1809" height="365" key="GridCell.Tab.1.left" timestamp="1606197512075">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.left/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606197512075" />
+    <state width="1809" height="365" key="GridCell.Tab.1.right" timestamp="1606197512075">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.right/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606197512075" />
+    <state x="783" y="242" key="RollbackChangesDialog" timestamp="1606098483948">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="783" y="242" key="RollbackChangesDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606098483948" />
     <state x="486" y="174" key="SettingsEditor" timestamp="1605161902517">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
@@ -229,10 +230,10 @@
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
     <state x="711" y="325" key="refactoring.ChangeSignatureDialog/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1604999915664" />
-    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1605235120252">
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1606096449197">
       <screen x="65" y="24" width="1855" height="1056" />
     </state>
-    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1605235120252" />
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056/1920.0.1920.1080@65.24.1855.1056" timestamp="1606096449197" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -266,6 +267,11 @@
           <url>file://$PROJECT_DIR$/demo/演讲比赛流程管理系统/speechManager.cpp</url>
           <line>106</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/demo/csapp/第二章/2.10-11.c</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

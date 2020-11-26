@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o"
+  "CMakeFiles/demo.dir/csapp/第二章/2.71.c.o"
   "demo"
   "demo.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C)
   include(CMakeFiles/demo.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

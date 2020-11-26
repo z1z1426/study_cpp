@@ -123,32 +123,32 @@ demo/fast:
 	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/build
 .PHONY : demo/fast
 
-机房预约系统/机房预约系统.o: 机房预约系统/机房预约系统.cpp.o
+csapp/第二章/2.71.o: csapp/第二章/2.71.c.o
 
-.PHONY : 机房预约系统/机房预约系统.o
+.PHONY : csapp/第二章/2.71.o
 
 # target to build an object file
-机房预约系统/机房预约系统.cpp.o:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o
-.PHONY : 机房预约系统/机房预约系统.cpp.o
+csapp/第二章/2.71.c.o:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/csapp/第二章/2.71.c.o
+.PHONY : csapp/第二章/2.71.c.o
 
-机房预约系统/机房预约系统.i: 机房预约系统/机房预约系统.cpp.i
+csapp/第二章/2.71.i: csapp/第二章/2.71.c.i
 
-.PHONY : 机房预约系统/机房预约系统.i
+.PHONY : csapp/第二章/2.71.i
 
 # target to preprocess a source file
-机房预约系统/机房预约系统.cpp.i:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.i
-.PHONY : 机房预约系统/机房预约系统.cpp.i
+csapp/第二章/2.71.c.i:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/csapp/第二章/2.71.c.i
+.PHONY : csapp/第二章/2.71.c.i
 
-机房预约系统/机房预约系统.s: 机房预约系统/机房预约系统.cpp.s
+csapp/第二章/2.71.s: csapp/第二章/2.71.c.s
 
-.PHONY : 机房预约系统/机房预约系统.s
+.PHONY : csapp/第二章/2.71.s
 
 # target to generate assembly for a file
-机房预约系统/机房预约系统.cpp.s:
-	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.s
-.PHONY : 机房预约系统/机房预约系统.cpp.s
+csapp/第二章/2.71.c.s:
+	$(MAKE) -f CMakeFiles/demo.dir/build.make CMakeFiles/demo.dir/csapp/第二章/2.71.c.s
+.PHONY : csapp/第二章/2.71.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... demo"
-	@echo "... 机房预约系统/机房预约系统.o"
-	@echo "... 机房预约系统/机房预约系统.i"
-	@echo "... 机房预约系统/机房预约系统.s"
+	@echo "... csapp/第二章/2.71.o"
+	@echo "... csapp/第二章/2.71.i"
+	@echo "... csapp/第二章/2.71.s"
 .PHONY : help
 
 

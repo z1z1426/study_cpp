@@ -1,15 +1,15 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
+  "C"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ge/CLionProjects/study_cpp/demo/机房预约系统/机房预约系统.cpp" "/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o"
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/ge/CLionProjects/study_cpp/demo/csapp/第二章/2.71.c" "/home/ge/CLionProjects/study_cpp/demo/cmake-build-debug/CMakeFiles/demo.dir/csapp/第二章/2.71.c.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+set(CMAKE_C_TARGET_INCLUDE_PATH
   )
 
 # Targets to which this target links.
