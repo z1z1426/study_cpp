@@ -37,30 +37,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47c6662a-d679-48ef-8749-47690ef2e928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.10-11.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.12.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.23.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.54.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.61.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/csapp/第二章/2.71.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/datastructure/DynamicArray.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/datastructure/DynamicArray.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/datastructure/动态数组.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demo/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/CMakeFiles/demo.dir/机房预约系统/机房预约系统.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/demo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/cmake-build-debug/demo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/demo/cmake-build-debug/demo.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +115,7 @@
       <workItem from="1606095891243" duration="5677000" />
       <workItem from="1606181081396" duration="15886000" />
       <workItem from="1606267702074" duration="8766000" />
-      <workItem from="1606354022191" duration="1807000" />
+      <workItem from="1606354022191" duration="2446000" />
     </task>
     <servers />
   </component>
